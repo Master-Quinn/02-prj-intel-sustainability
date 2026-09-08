@@ -33,13 +33,17 @@ body {
 }
 
 /*Timeline*/
+.container {
+  display: grid;
+  place-items: center;
+}
+
 .timeline {
   display: flex;
-  place-items: center;
-  max-width: 1760px;
+  max-width: 1320px;
   overflow-y: scroll;
 }
 
 .timeline .card {
-  width: 400px;
+  width: 300px;
 }
