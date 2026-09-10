@@ -155,7 +155,7 @@ body {
 
   .card img {
     height: 400px;
-    width: auto;
+    width: 500px;
     object-fit: cover;
     display: block;
   }
