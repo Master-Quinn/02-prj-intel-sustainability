@@ -59,7 +59,7 @@ body {
   transition: transform 0.3s ease-in-out;
   flex: 0 0 330px;
   scroll-snap-align: start;
-  scroll-margin-top: 7px;
+  scroll-margin: 15px;
 }
 
 .card:hover, .card:focus {
